@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.example</groupId>
-    <artifactId>P1_LLM</artifactId>
+    <artifactId>Test_LangChain4j</artifactId>
     <version>1.0-SNAPSHOT</version>
 
 
