@@ -45,6 +45,12 @@
         </dependency>
         -->
 
+        <!-- https://mvnrepository.com/artifact/io.github.opensabe-tech/langchain4j-code-execution-engine-judge0 -->
+        <dependency>
+            <groupId>io.github.opensabe-tech</groupId>
+            <artifactId>langchain4j-code-execution-engine-judge0</artifactId>
+            <version>0.32.0.1</version>
+        </dependency>
 
 
     </dependencies>

@@ -12,7 +12,7 @@ public class _01_ModelParameters {
         // Setting up parameters for the OpenAI API
         ChatLanguageModel model = OpenAiChatModel.builder()
                 .apiKey(ApiKeys.OPENAI_API_KEY) // Setting the API key for authentication
-                .modelName(GPT_4_O_MINI) // Specifying the model name to use (GPT-3.5 Turbo)
+                .modelName(GPT_4_O_MINI) // Specifying the model name to use (GPT_4_O_MINI)
                 .temperature(0.3) // Setting the temperature for response variability (0.3 for less randomness)
                 .timeout(ofSeconds(60)) // Setting the timeout duration for API requests to 60 seconds
                 .logRequests(true) // Enabling logging of requests for debugging purposes
